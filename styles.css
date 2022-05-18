@@ -1,0 +1,262 @@
+
+.header  {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: monospace;
+  background: #1F2937;
+}
+
+.headerlogo {
+  font-size: 30px;
+  font-weight: 900;
+  color: white;
+  margin: 10px 10px 10px 260px;
+  padding: 4px 32px;
+}
+
+ul {
+  display: flex;
+  margin: 10px 260px 10px 10px;
+  padding: 0;
+  gap: 8px;
+  list-style-type: none;
+}
+
+.headerlink1, .headerlink2, .headerlink3 {
+  font-size: 18px;
+  color: white;
+  padding: 8px;
+  /* this removes the line under the links  */
+  text-decoration: none;
+}
+
+
+/* margin: 25px 50px 75px 100px;
+  top margin is 25px
+  right margin is 50px
+  bottom margin is 75px
+  left margin is 100px */
+
+
+
+/* 
+################################################################################################################
+################################################################################################################
+*/
+
+.firstfour  {
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: center;
+  font-family: monospace;
+  background: #1F2937;
+  padding: 100px;
+}
+
+.box1 {
+  display: flex;
+  padding: 16px;
+  background: #1F2937;
+  width: 480px;
+  margin: 30px;
+}
+
+
+button.boxcontinue1 {
+  background: royalblue;
+  border: 1px solid royalblue;
+  font-size: 20px;
+  color: white;
+  width: 30%;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+
+.boxheader1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: white;
+}
+
+.boxtext1 {
+  color: #E5E7EB;
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+
+.box2 {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+  background: #e5e7eb56;
+  width: 480px;
+  margin: 30px;
+}
+
+.boxtext2 {
+  text-align: center;
+  font-size: 18px;
+  color: #E5E7EB;
+  margin-bottom: 16px;
+}
+
+
+/* 
+################################################################################################################
+################################################################################################################
+*/
+
+.secondfour  {
+  display: flex;
+  margin: 10px;
+  margin: 5px 10px 100px 10px;
+  justify-content: center;
+  gap: 52px;
+  }
+
+  .square {
+    border-radius: 15px;
+    height: 80px;
+    margin: 10px;
+    padding: 50px;
+    border: 4px solid #3882F6;
+  }
+
+  .title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+  }
+
+  .info {
+    text-align: center;
+    max-width: 200px;
+  } 
+  
+  .text {
+    color: black;
+  }
+
+  /* margin: 25px 50px 75px 100px;
+  top margin is 25px
+  right margin is 50px
+  bottom margin is 75px
+  left margin is 100px */
+
+/* 
+################################################################################################################
+################################################################################################################
+*/
+
+
+.thirdfour  {
+  display: flex;
+  padding: 150px;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  font-family: monospace;
+  background: #E5E7EB;
+}
+
+ul1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-items: center;
+  margin: 0;
+  padding: 0;
+  flex-direction: column;
+  gap: 25px;
+  list-style-type: none;
+}
+
+.textarea1 {
+  display: flex;
+  font-style: italic;
+  width: 1000px;
+  font-size: 28px;
+}
+
+.textarea2 {
+  display: flex;
+  justify-content: end;
+  font-weight: 900;
+  width: 950px;
+  font-size: 20px;
+}
+
+/* 
+################################################################################################################
+################################################################################################################
+*/
+
+
+.fourthfour  {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+  gap: 22px;
+  font-family: monospace;
+  background: white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3882F6;
+  border-radius: 10px;
+  height: 200px;
+  width: 1500px;
+  margin: 50px;
+  padding: 30px;
+  box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+}
+
+
+.containerheader {
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  margin: 16px 16px 0px 160px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: white;
+}
+
+.containertext {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #E5E7EB;
+  font-size: 20px;
+  margin: 0px 16px 16px 150px;
+  padding: 10px;
+}
+
+
+button.continue {
+  background: royalblue;
+  border: 1px solid white;
+  font-size: 18px;
+  color: white;
+  width: 180px;
+  margin: 16px 180px 16px 16px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+
+/* 
+################################################################################################################
+################################################################################################################
+*/
